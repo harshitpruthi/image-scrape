@@ -4,7 +4,7 @@ var db = mongoskin.db(url);
 
 
 /**
- * GET /
+ ** GET /
  */
 exports.keywordGet = function(req, res) {
     db.bind('keywordlist', {});
