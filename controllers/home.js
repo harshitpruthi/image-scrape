@@ -9,7 +9,7 @@ var db = mongoskin.db(url);
 
 
 /**
- * GET /
+ ** GET /
  */
 exports.homeGet = function(req, res) {
   res.render('home', {
