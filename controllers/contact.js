@@ -8,7 +8,7 @@ var transporter = nodemailer.createTransport({
 });
 
 /**
- * GET /contact
+ ** GET /contact
  */
 exports.contactGet = function(req, res) {
   res.render('contact', {
