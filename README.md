@@ -10,6 +10,6 @@ To run this project first make sure you have MongoDB running in your machine.
 
 Next follow these steps.
 
-Install pm2 using ' npm install pm2 -g '* & then run using ' pm2 start server.js '*
+Install pm2 using ' npm install pm2 -g ' & then run using ' pm2 start server.js '
 
 Open the server at http://localhost:3000
