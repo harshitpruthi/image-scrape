@@ -1,3 +1,3 @@
 $(function() {
-  // Your custom JavaScript goes here
+  // Your custom JavaScript goes here.
 });
